@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.15.15",
+    "react-syntax-highlighter": "^15.5.0"
+  }
+}

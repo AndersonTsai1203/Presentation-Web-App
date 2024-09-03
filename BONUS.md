@@ -1,0 +1,5 @@
+1. Our website includes several additional features designed to enhance user convenience and efficiency. One such feature allows users to press the Enter key to submit forms when filling out modal dialogs. This feature saves time by eliminating the need for mouse clicks and streamlining the form submission process.
+
+2. We also provide users with the ability to customise their text right from the start. Users can choose their preferred font when initially adding text and have the flexibility to adjust the text content, color, and size of the text box as needed.
+
+3. we've improved the navigation between slides by adding slide numbers between the "Next" and "Previous" buttons. This feature makes it straightforward for users to know exactly which slide they are on, enhancing the usability of the slide navigation and helping users maintain their orientation within their presentation. 
